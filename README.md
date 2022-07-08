@@ -15,6 +15,8 @@ I also needed to alter the image to be a little bigger in height. I adjusted it 
 
 Once this was changed I verified that everything was still in working order compared to the original files provided and we were good to go. Before submitting I added some comments into the index.html file so that everything was noticeable and easy to read, and I noticed the title was very generic, so I changed it to state the company's name.
 
+Before deploying I decided to select the header and footer in css using type selector instead of class to follow a more semantic structure. I left the header and footer classes in the html however, just in case the company decides to add pages later.
+
 After that it was all ready to be deployed [here](). 
 
 This is what it looks like if you don't necessarily want to follow that link! ^^^
