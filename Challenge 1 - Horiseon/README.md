@@ -1,4 +1,28 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Challenge 1 - Horiseon
+
+
+## James' Notes on Challenge 1
+This weeks challenge looked a little overwhelming at first. But once a few classes were under my belt it was ready to be tackled!
+
+I started by implementing semantic tags in the index.html file where necessary. i.e. header at the top, footer at the bottom. I put a nav tag inside the header so it was clear there was a difference to the other elements inside. 
+I replaced some div tags with section tags to make the blocks of code easier to follow and separated. 
+I thought about replacing the div tags inside each section with article tags, but there wasn't a lot of contents in them so it didn't seem too pertinent or beneficial in this particular scenario.
+
+Next I took a look at what I was dealing with when it came to the css file controlling the styles. 
+On first approach I noticed a lot of the same styles applied to different sections but in separate blocks of code written multiple times. So I grouped those up and added comments in as I went. Doing this altered the class name of said style, so I went back into the index.html file and altered the classes as needed. 
+
+Once this was changed I verified that everything was still in working order compared to the original files provided and we were good to go. Before submitting I added some comments into the index.html file so that everything was noticeable and easy to read, and I noticed the title was very generic, so I changed it to state the company's name.
+
+After that it was all ready to be deployed [here](). 
+
+This is what it looks like if you don't necessarily want to follow that link! ^^^
+
+![Horiseon screenshot]()
+
+
+
+
+## 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
