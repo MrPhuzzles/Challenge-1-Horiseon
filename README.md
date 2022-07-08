@@ -10,7 +10,8 @@ I thought about replacing the div tags inside each section with article tags, bu
 I also noticed at this time that one of the nav bar links was not functioning correctly. The div it pointed to had no ID attribute, so I added one of those in.
 
 Next I took a look at what I was dealing with when it came to the css file controlling the styles. 
-On first approach I noticed a lot of the same styles applied to different sections but in separate blocks of code written multiple times. So I grouped those up and added comments in as I went. Doing this altered the class name of said style, so I went back into the index.html file and altered the classes as needed. 
+On first approach I noticed a lot of the same styles applied to different sections but in separate blocks of code written multiple times. So I grouped those up and added comments in as I went. Doing this altered the class name of said style, so I went back into the index.html file and altered the classes as needed.
+I also needed to alter the image to be a little bigger in height. I adjusted it to 1300px which seemed to be close to what was asked of. 
 
 Once this was changed I verified that everything was still in working order compared to the original files provided and we were good to go. Before submitting I added some comments into the index.html file so that everything was noticeable and easy to read, and I noticed the title was very generic, so I changed it to state the company's name.
 
