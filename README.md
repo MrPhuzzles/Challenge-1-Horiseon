@@ -7,6 +7,7 @@ This weeks challenge looked a little overwhelming at first. But once a few class
 I started by implementing semantic tags in the index.html file where necessary. i.e. header at the top, footer at the bottom. I put a nav tag inside the header so it was clear there was a difference to the other elements inside. 
 I replaced some div tags with section tags to make the blocks of code easier to follow and separated. 
 I thought about replacing the div tags inside each section with article tags, but there wasn't a lot of contents in them so it didn't seem too pertinent or beneficial in this particular scenario.
+I also noticed at this time that one of the nav bar links was not functioning correctly. The div it pointed to had no ID attribute, so I added one of those in.
 
 Next I took a look at what I was dealing with when it came to the css file controlling the styles. 
 On first approach I noticed a lot of the same styles applied to different sections but in separate blocks of code written multiple times. So I grouped those up and added comments in as I went. Doing this altered the class name of said style, so I went back into the index.html file and altered the classes as needed. 
