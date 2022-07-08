@@ -21,8 +21,8 @@ After that it was all ready to be deployed [here](https://mrphuzzles.github.io/J
 
 This is what it looks like if you don't necessarily want to follow that link! ^^^
 
-![Horiseon screenshot](./Screenshots/Horiseon%20Screenshot.svg)
-![Horiseon screenshot 2](./Screenshots/Horiseon%20Screenshot%202.svg)
+![Horiseon screenshot](./Screenshots/Horiseon%20Screenshot.png)
+![Horiseon screenshot 2](./Screenshots/Horiseon%20Screenshot%202.png)
 
 
 
