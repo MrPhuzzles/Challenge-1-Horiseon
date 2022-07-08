@@ -17,12 +17,12 @@ Once this was changed I verified that everything was still in working order comp
 
 Before deploying I decided to select the header and footer in css using type selector instead of class to follow a more semantic structure. I left the header and footer classes in the html however, just in case the company decides to add pages later.
 
-After that it was all ready to be deployed [here](). 
+After that it was all ready to be deployed [here](https://mrphuzzles.github.io/James-Tietjen-Challenge1/). 
 
 This is what it looks like if you don't necessarily want to follow that link! ^^^
 
-![Horiseon screenshot]()
-
+![Horiseon screenshot](./Screenshots/Horiseon%20Screenshot.svg)
+![Horiseon screenshot 2](./Screenshots/Horiseon%20Screenshot%202.svg)
 
 
 
